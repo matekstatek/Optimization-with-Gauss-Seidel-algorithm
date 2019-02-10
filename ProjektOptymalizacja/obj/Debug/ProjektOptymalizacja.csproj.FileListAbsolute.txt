@@ -1,0 +1,10 @@
+C:\Users\Doris\source\repos\ProjektOptymalizacja\ProjektOptymalizacja\obj\Debug\ProjektOptymalizacja.csprojAssemblyReference.cache
+C:\Users\Doris\source\repos\ProjektOptymalizacja\ProjektOptymalizacja\obj\Debug\ProjektOptymalizacja.Form1.resources
+C:\Users\Doris\source\repos\ProjektOptymalizacja\ProjektOptymalizacja\obj\Debug\ProjektOptymalizacja.Properties.Resources.resources
+C:\Users\Doris\source\repos\ProjektOptymalizacja\ProjektOptymalizacja\obj\Debug\ProjektOptymalizacja.csproj.GenerateResource.cache
+C:\Users\Doris\source\repos\ProjektOptymalizacja\ProjektOptymalizacja\obj\Debug\ProjektOptymalizacja.csproj.CoreCompileInputs.cache
+C:\Users\Doris\source\repos\ProjektOptymalizacja\ProjektOptymalizacja\bin\Debug\ProjektOptymalizacja.exe.config
+C:\Users\Doris\source\repos\ProjektOptymalizacja\ProjektOptymalizacja\bin\Debug\ProjektOptymalizacja.exe
+C:\Users\Doris\source\repos\ProjektOptymalizacja\ProjektOptymalizacja\bin\Debug\ProjektOptymalizacja.pdb
+C:\Users\Doris\source\repos\ProjektOptymalizacja\ProjektOptymalizacja\obj\Debug\ProjektOptymalizacja.exe
+C:\Users\Doris\source\repos\ProjektOptymalizacja\ProjektOptymalizacja\obj\Debug\ProjektOptymalizacja.pdb
